@@ -6,7 +6,6 @@ Welcome to **Medishn**! We are an organization dedicated to creating cool and ed
 
 At Medishn, we believe in the power of open-source and the importance of community-driven development. Although we are currently a solo venture, we aim to produce high-quality, impactful projects that can inspire and educate.
 
-
 ## Vision and Goals
 
 Our goal is to build a robust portfolio of projects that can serve as a valuable resource for the developer community. 
